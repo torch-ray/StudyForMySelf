@@ -9,3 +9,4 @@
 - [문자열과 문자 (2)](https://torch-ray.tistory.com/17)
 - [문자열과 문자 (3)](https://torch-ray.tistory.com/18)
 - [콜렉션 타입(1)](https://torch-ray.tistory.com/19)
+- [콜렉션 타입(2)](https://torch-ray.tistory.com/20)
