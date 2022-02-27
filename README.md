@@ -11,3 +11,6 @@
 - [콜렉션 타입(1)](https://torch-ray.tistory.com/19)
 - [콜렉션 타입(2)](https://torch-ray.tistory.com/20)
 - [제어문(1)](https://torch-ray.tistory.com/21)
+
+## 쉘 스크립트 기초
+- [쉘 스크립트 입문(1)](https://torch-ray.tistory.com/23)
