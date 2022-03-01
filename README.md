@@ -13,4 +13,5 @@
 - [제어문(1)](https://torch-ray.tistory.com/21)
 
 ## 쉘 스크립트 기초
-- [쉘 스크립트 입문(1)](https://torch-ray.tistory.com/23)
+- [쉘 스크립트 설정](https://torch-ray.tistory.com/23)
+- [쉘 스크립트 커맨드(1)](https://torch-ray.tistory.com/24)
