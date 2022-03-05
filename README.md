@@ -14,4 +14,5 @@
 
 ## 쉘 스크립트 기초
 - [쉘 스크립트 설정](https://torch-ray.tistory.com/23)
-- [쉘 스크립트 커맨드(1)](https://torch-ray.tistory.com/24)
+- [쉘 스크립트 기본커맨드와 변수](https://torch-ray.tistory.com/24)
+- [쉘 스크립트 배열](https://torch-ray.tistory.com/25)
