@@ -12,6 +12,7 @@
 - [콜렉션 타입(2)](https://torch-ray.tistory.com/20)
 - [제어문(1)](https://torch-ray.tistory.com/21)
 - [제어문(2)](https://torch-ray.tistory.com/28)
+- [제어문(3)](https://torch-ray.tistory.com/31)
 
 ## 쉘 스크립트 기초
 - [쉘 스크립트 설정](https://torch-ray.tistory.com/23)
